@@ -1,0 +1,48 @@
+.top-container
+{
+	background-image: url('../images/bday-candle.gif');
+	height: 800px;
+	width: 100%;
+	background-size: cover;
+}
+.middle-container
+{
+	padding: 100px 0;
+	text-align: center;
+	background-color:#ffe8df;
+}
+.cake
+{
+	border-radius: 100%;
+}
+h1
+{
+	margin: 0 50px;
+	font-family: 'Pacifico', cursive;
+    font-size:3rem; 
+}
+p
+{
+	position: absolute;
+	left: 300px;
+	width: 50%;
+	font-weight: 400;
+	font-family: 'Pacifico', cursive;
+}
+.bottom-container
+{
+	height: 300px;
+	padding: 100px 0;
+	text-align: center;
+}
+.guddi-collage
+{
+	position: relative;
+	top: 180px;
+	left: 80px;
+}
+.wish
+{
+	position: absolute;
+	position: relative;
+}
